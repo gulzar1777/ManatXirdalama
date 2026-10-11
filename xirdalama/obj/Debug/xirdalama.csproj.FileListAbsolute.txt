@@ -1,0 +1,10 @@
+C:\Users\ewez\OneDrive\Desktop\github.g\xirdalama\xirdalama\bin\Debug\xirdalama.exe.config
+C:\Users\ewez\OneDrive\Desktop\github.g\xirdalama\xirdalama\bin\Debug\xirdalama.exe
+C:\Users\ewez\OneDrive\Desktop\github.g\xirdalama\xirdalama\bin\Debug\xirdalama.pdb
+C:\Users\ewez\OneDrive\Desktop\github.g\xirdalama\xirdalama\obj\Debug\xirdalama.csproj.AssemblyReference.cache
+C:\Users\ewez\OneDrive\Desktop\github.g\xirdalama\xirdalama\obj\Debug\xirdalama.Properties.Resources.resources
+C:\Users\ewez\OneDrive\Desktop\github.g\xirdalama\xirdalama\obj\Debug\xirdalama.csproj.GenerateResource.cache
+C:\Users\ewez\OneDrive\Desktop\github.g\xirdalama\xirdalama\obj\Debug\xirdalama.csproj.CoreCompileInputs.cache
+C:\Users\ewez\OneDrive\Desktop\github.g\xirdalama\xirdalama\obj\Debug\xirdalama.exe
+C:\Users\ewez\OneDrive\Desktop\github.g\xirdalama\xirdalama\obj\Debug\xirdalama.pdb
+C:\Users\ewez\OneDrive\Desktop\github.g\xirdalama\xirdalama\obj\Debug\xirdalama.Form1.resources
